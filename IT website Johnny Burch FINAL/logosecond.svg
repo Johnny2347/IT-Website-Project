@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="-19.362" y="258.158" width="63.039" height="160.721"/>
+  </defs>
+  <g transform="matrix(0.392847, 0, 0, 0.558954, 145.053055, 95.583252)" style="">
+    <g>
+      <g transform="matrix(1, 0, 0, 1, 324.47171, 3.362401)">
+        <g transform="matrix(3.667642, 0, 0, 2.071473, 997.235901, -191.754303)" style="">
+          <path style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 6px; transform-origin: -293.415px 215.163px;" d="M -213.13 202.866 C -151.29 167.818 -245.9 59.166 -379.77 244.484 C -422.89 304.187 -367.33 290.328 -213.13 202.866 Z"/>
+          <path d="M -400.03 241.964 H -201.902 V 286.456 H -400.03 V 241.964 Z M -397.476 245.409 V 283.011 H -204.456 V 245.409 H -397.476 Z" bx:shape="frame -400.03 241.964 198.128 44.492 2.554 3.445 0 0 0 0 1@13128e37" style="stroke: rgb(0, 0, 0);"/>
+          <path d="M -298.28 192.203 m -41.87 0 a 41.87 54.182 0 1 0 83.74 0 a 41.87 54.182 0 1 0 -83.74 0 Z M -298.28 192.203 m -5.025 0 a 5.025 6.501 0 0 1 10.05 0 a 5.025 6.501 0 0 1 -10.05 0 Z" bx:shape="ring -298.28 192.203 5.025 6.501 41.87 54.182 1@02359ff0" style="stroke: rgb(0, 0, 0); stroke-width: 0.833;"/>
+          <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 0.833;" cx="-297.55" cy="158.415" rx="10.691" ry="13.143"/>
+          <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 0.833;" cx="-298.13" cy="192.023" rx="5.765" ry="7.16"/>
+          <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 0.833;" cx="-271.93" cy="184.421" rx="10.691" ry="13.143"/>
+          <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 0.833;" cx="-282.97" cy="218.839" rx="10.691" ry="13.143"/>
+          <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 0.833;" cx="-311.78" cy="218.568" rx="10.691" ry="13.143"/>
+          <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(255, 255, 255); stroke-width: 0.833;" cx="-323.23" cy="185.815" rx="10.691" ry="13.143"/>
+          <text style="font-family: Arial, sans-serif; font-size: 35px; white-space: pre;" x="129.132" y="504.861" transform="matrix(0.256812, 0, 0, 0.346544, -365.82843, 103.34111)">J.B Studios</text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,184 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+/*mobile phone view*/
+body {
+background-color: #d3d3d3;}
+
+@media only screen and (min-width: 601px){
+	
+
+
+
+
+	
+#mainpage {
+	text-align: center;
+	width: 100%;
+	height: auto;
+	background-color: #045583	
+	
+	
+}
+
+
+#WebFooter {
+	position: fixed;
+	text-align: center;
+	left: 0;
+	width: 100%;
+	bottom: 0;
+	height: 4%;
+	color: #ffffff;
+	background-color: #045583;
+	
+	
+}
+
+	
+	
+	
+
+
+#WebFooter a:hover{
+	text-decoration: underline;
+	color: #ffffff;
+border-color: #fffffff;}
+
+
+#WebFooter a:visited{
+color:#ffffff;}
+
+
+
+
+
+
+
+
+#mainpage span{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	
+	
+}
+
+#mainpage ul{
+	list-style-type:none;
+	padding: 0;
+	margin: 0;
+	font-size:20px;	
+	
+}
+
+#mainpage li {
+	display: inline;
+	line-height: 50px;
+	margin-left: 5px;
+}
+
+
+ 
+
+#mainpage a{
+	background-color: #045583;
+	background-position: bottom left;
+	background-repeat: repeat-x;
+	text-decoration: none;
+	
+}
+
+
+}
+
+#mainpage a:hover{
+	text-decoration: underline;
+	color: #ffffff;
+border-color: #fffffff;}
+
+
+#mainpage a:visited{
+color:#ffffff;}
+
+
+@media only screen and (max-width: 600px){
+	
+
+
+#mainpage {
+	text-align: center;
+	width: 100%;
+	height: auto;
+	background-color: #045583	
+	
+	
+}
+
+
+#mainpage span{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 40px;
+	padding-right: 40px;
+	
+}
+
+#mainpage ul{
+	list-style-type:none;
+	padding: 0;
+	margin: 0;
+	font-size:16px;	
+	text-align: center;
+}
+
+
+<im
+
+
+#mainpage li{
+	text-align: center;
+	display:block;
+	margin: 0px;
+	margin-top: 5px;
+
+}
+
+#mainpage a{
+	display:block;
+	width:100%;
+	
+}
+
+
+
+
+
+
+#WebFooter {
+	position: fixed;
+	text-align: center;
+	left: 0;
+	width: 100%;
+	bottom: 0;
+	height: 5%;
+	background-color: #045583;
+	
+	
+}
+
+
+
+
+#WebFooter a:hover{
+	text-decoration: underline;
+	color: #ffffff;
+border-color: #fffffff;}
+
+
+#WebFooter a:visited{
+color:#ffffff;}
+}
